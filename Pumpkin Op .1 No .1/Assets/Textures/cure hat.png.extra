@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "7c776d79-3a23-5c77-a50f-de45cb9a7c42",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "cure hat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetStudioData": {
+      "id": "20231024153110644F7A9C5CD8CB8CB7C7_7c776d79-3a23-5c77-a50f-de45cb9a7c42",
+      "generatorType": "2D Sticker",
+      "stylePreset": "Pixel Art"
+    },
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]

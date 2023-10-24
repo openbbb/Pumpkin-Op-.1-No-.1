@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "d064ec02-c8ea-a827-a12e-f1d59373edf6",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "pumpkin (9)",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetStudioData": {
+      "id": "202310241537596EA682C190DD3E905950_d064ec02-c8ea-a827-a12e-f1d59373edf6",
+      "generatorType": "2D Sticker",
+      "stylePreset": "Pixel Art"
+    },
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]
