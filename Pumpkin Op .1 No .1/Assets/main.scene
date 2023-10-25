@@ -124,7 +124,7 @@ entities:
     scene: {localId: 1}
     selfvisible: true
     components:
-      - {localId: 9}
+      - {localId: 6}
       - __class: FaceCapture
         name: ""
         guid: {a: 4794931715930253788, b: 8001881188241805440}
@@ -161,7 +161,7 @@ entities:
     scene: {localId: 1}
     selfvisible: true
     components:
-      - {localId: 10}
+      - {localId: 7}
       - __class: ImageRenderer
         name: ""
         guid: {a: 5199156575394883231, b: 1220684878912803765}
@@ -232,7 +232,7 @@ children:
   - {localId: 2}
   - {localId: 4}
   - {localId: 5}
-  - {localId: 9}
+  - {localId: 6}
 mobility:
   __class: Mobility
   value: Dynamic
@@ -258,7 +258,7 @@ parent: {localId: 3}
 mobility:
   __class: Mobility
   value: Dynamic
---- !Transform &9
+--- !Transform &6
 name: ""
 guid: {a: 5469712725766721793, b: 5048813757358094995}
 enabled: true
@@ -267,18 +267,18 @@ localScale: {x: 1, y: 1, z: 1}
 localOrientation: {w: 1, x: 0, y: 0, z: 0}
 parent: {localId: 3}
 children:
-  - {localId: 10}
+  - {localId: 7}
 mobility:
   __class: Mobility
   value: Dynamic
---- !Transform &10
+--- !Transform &7
 name: ""
 guid: {a: 5387445762242194968, b: 10082122524801851022}
 enabled: true
 localPosition: {x: 0.08108544, y: 13.75497, z: 0}
 localScale: {x: 1, y: 1, z: 1}
 localOrientation: {w: 1, x: 0, y: 0, z: 0}
-parent: {localId: 9}
+parent: {localId: 6}
 mobility:
   __class: Mobility
   value: Dynamic
